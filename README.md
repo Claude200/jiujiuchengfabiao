@@ -1,2 +1,2 @@
-# jiujiuchengfabiao
+# 九九乘法表
 C#版的九九乘法表
