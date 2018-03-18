@@ -1,4 +1,8 @@
-﻿using System;
+/*
+* Author: PECman
+* Date: 2018/3/17
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
